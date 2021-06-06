@@ -22,8 +22,7 @@ body{
     padding-top: 30px;
     padding-left: 30px;
     padding-right: 30px;
-    clear: both;
-    
+    clear: both;   
 }
 #stopka{
     background-color: rgb(74,45,32);
@@ -40,17 +39,14 @@ body{
     color: white;
     width:50%;
     height:500px;
-    float: left;
-   
-    
+    float: left;    
 }
 #prawy{
     background-color:rgb(162,117,87);
     color: white;
     width:50%;
     height:500px;
-    float: left;
-    
+    float: left;    
 }
 .on{
     color:rgb(65,98,85);
